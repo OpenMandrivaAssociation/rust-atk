@@ -5,8 +5,8 @@
 %global crate atk
 
 Name:           rust-%{crate}
-Version:        0.8.0
-Release:        2%{?dist}
+Version:        0.18.2
+Release:        1%{?dist}
 Summary:        Rust bindings for the ATK library
 
 # Upstream license specification: MIT
